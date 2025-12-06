@@ -33,7 +33,7 @@ A Python automation script that:
 
 ---
 
-## ⚙️ How Kiro Helped
+##  How Kiro Helped
 
 Kiro made development faster and simpler by helping me:
 
@@ -109,7 +109,7 @@ if __name__ == "__main__":
 
 ---
 
-## 📸Demo Screenshots
+## Demo Screenshots
 
 ###  Before Automation (Messy Desktop)
 *File: `demo/before_desktop.png`*
