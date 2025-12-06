@@ -52,5 +52,45 @@ inside the Kiro platform.
 
 Run the script:
 
+python organize\_desktop.py
+
+
+
+
+
+Your Desktop files will automatically be sorted into their respective folders.
+
+
+
+\## Repository Structure
+
+
+
+/.kiro
+
+organize\_desktop.py
+
+README.md
+
+demo/
+
+
+
+
+
+\## Demo
+
+Screenshots or screen recordings showing:
+
+\- The messy desktop (before)
+
+\- The Kiro script running
+
+\- The organized desktop (after)
+
+
+
+Add these images in the `/demo` folder.
+
 
 
